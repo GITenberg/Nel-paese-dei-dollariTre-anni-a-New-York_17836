@@ -1,0 +1,30 @@
+_repo: Nel-paese-dei-dollariTre-anni-a-New-York_17836
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rossi, Adolfo
+    birthdate: 1857
+    deathdate: 1921
+    gutenberg_agent_id: '7632'
+    url: http://www.gutenberg.org/2009/agents/7632
+description: ''
+gutenberg_bookshelf: IT Viaggi
+gutenberg_issued: '2006-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17836'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 19th century'
+- !lcc 'F106'
+- !lcsh 'Italians -- New York (State) -- New York'
+title: 'Nel paese dei dollari
+
+  Tre anni a New-York'
+url: http://www.gutenberg.org/ebooks/17836
